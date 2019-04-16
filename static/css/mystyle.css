@@ -1,0 +1,12 @@
+.headset{
+  background: #4f93ff;
+  vertical-align: center;
+  text-align:center;
+  color: white;
+  font-size: 15px;
+}
+.box2{
+  display: flex;
+  justify-content:center;
+  align-items:Center;
+}
